@@ -12,7 +12,7 @@
 
 # ERD URL
 
-https://velog.velcdn.com/images/wlduq0150/post/1c0e57b8-5427-4e09-831b-32eb3c40b6d5/image.png
+![erd](https://velog.velcdn.com/images/wlduq0150/post/1c0e57b8-5427-4e09-831b-32eb3c40b6d5/image.png)
 
 # 더 고민해 보기
 
