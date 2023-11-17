@@ -1,6 +1,10 @@
 # 환경변수
 - COOKIE_SECRET=example
 - JWT_SECRET=example
+- MYSQL_USERNAME=example
+- MYSQL_PASSWORD=example
+- MYSQL_DATABASE=example
+- MYSQL_HOST=example
 
 # API 명세서 URL
 
@@ -8,7 +12,7 @@
 
 # ERD URL
 
-<iframe width="600" height="336" src="https://www.erdcloud.com/p/NMXHpdsKT2o5ya9Np" frameborder="0" allowfullscreen></iframe>
+https://velog.velcdn.com/images/wlduq0150/post/1c0e57b8-5427-4e09-831b-32eb3c40b6d5/image.png
 
 # 더 고민해 보기
 
